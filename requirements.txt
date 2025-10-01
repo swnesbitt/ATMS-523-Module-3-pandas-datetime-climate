@@ -1,0 +1,6 @@
+pandas>=2.1
+pyarrow>=14
+fastparquet>=2024.2.0
+jupyterlab
+fsspec>=2024.2.0
+s3fs>=2024.2.0
